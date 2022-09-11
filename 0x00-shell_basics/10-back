@@ -1,2 +1,3 @@
 #!/bin/bash
 cd /name of prevoius directory
+cd -
