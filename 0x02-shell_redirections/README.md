@@ -1,1 +1,1 @@
-a script that displays the third line of the file iacta
+a script that creates an exact file containing an exact text
