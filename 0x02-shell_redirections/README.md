@@ -1,1 +1,1 @@
-a scrit that writes into the file as a result of ls la
+a script that duplicates the last line of the file iacta
